@@ -2,7 +2,7 @@
 
 Name:		pioneer
 Version:	0.0.%{oversion}
-Release:	1
+Release:	2
 Summary:	Space adventure game, reminiscent of Frontier: Elite 2
 Group:		Games/Arcade
 License:	GPLv3+
