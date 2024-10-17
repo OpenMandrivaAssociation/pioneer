@@ -6,7 +6,7 @@ Release:	2
 Summary:	Space adventure game, reminiscent of Frontier: Elite 2
 Group:		Games/Arcade
 License:	GPLv3+
-URL:		http://pioneerspacesim.net/
+URL:		https://pioneerspacesim.net/
 # See https://github.com/pioneerspacesim/pioneer/tags
 Source:		%{name}-%{oversion}.tar.gz
 BuildRequires:	imagemagick
